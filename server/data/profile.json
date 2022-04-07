@@ -1,0 +1,28 @@
+
+[
+    {
+        "name":"kanyadaan films",
+        "price":"150000",
+        "description":"lorem",
+        "ratings":"4.5",
+        "phone":"9846513545",
+        "location":"Surat",
+        "availability":"13/04/2023",
+       
+        "category":"Photographers",
+        "reviews":[]
+
+    },
+    {
+        "name":"R.K. party plot",
+        "price":"150000",
+        "description":"lorem",
+        "ratings":"4.5",
+        "phone":"9846513545",
+        "location":"Surat",
+        "availability":"13/04/2022",
+        "category":"Venues",
+        "reviews":[]
+
+    }
+]
